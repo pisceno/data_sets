@@ -1,2 +1,6 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 wdbc.data filter=lfs diff=lfs merge=lfs -text
+=======
+YaleAdmits.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 1083fea4d889ae76beecdcc0574df852df6054ba
